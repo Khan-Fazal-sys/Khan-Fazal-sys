@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.png" alt="Khan Banner" width="100%" />
+</p>
+
 # Hi there, I'm Khan 👋
 
 🚀 **Developer | AI & ML Enthusiast | Full-Stack Builder**
