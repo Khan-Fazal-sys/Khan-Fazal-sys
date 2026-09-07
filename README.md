@@ -2,12 +2,6 @@
   <img src="./github_banner.png" alt="Khan Banner" width="100%" />
 </p>
 
-# Hi there, I'm Khan 👋
-
-🚀 **Developer | AI & ML Enthusiast | Full-Stack Builder**
-
----
-
 ## 🔭 Currently Working On
 - 🧠 **RAG-based assistants** with FastAPI + Ollama + Chroma for enterprise-grade search & chatbot workflows.  
 - 🤖 **Enterprise chatbots** (commissions, promotions, store ops, time correction) with multi-model orchestration:  
