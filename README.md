@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Khan-Fazal-sys)
+![](https://komarev.com/ghpvc/?username=Khan-Fazal-sys&color=lightgrey)
+
 <!--
 <p align="center">
   <img src="./github_banner.png" alt="Khan Banner" width="100%" />
