@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Khan-Fazal-sys&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=Khan-Fazal-sys&color=blueviolet)
 
 <!--
 <p align="center">
